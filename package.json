@@ -1,0 +1,20 @@
+{
+  "name": "testProject",
+  "version": "1.0.0",
+  "description": "NodeJs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrVdov/testProject.git"
+  },
+  "keywords": [],
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrVdov/testProject/issues"
+  },
+  "homepage": "https://github.com/AndrVdov/testProject#readme"
+}
